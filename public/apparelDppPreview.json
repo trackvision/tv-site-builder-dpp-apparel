@@ -1,0 +1,271 @@
+{
+  "product_name": "Jacket Arcelor orange/grey",
+  "class_id": "CC848125-33Q0101",
+  "lot_id": "25034874",
+  "taric_code": "6203321000",
+  "brand": "Cindico",
+  "manufacturer": "Cindico",
+  "country_of_production": "Morocco",
+  "primary_image": "/images/jacket-arcelor.jpg",
+  "gs1_digital_link": "https://www.dpp.tracked.be/class/CC848125-33Q0101/10/25034874",
+  "further_information_url": "https://www.cindico-ce.com/file/SM-U01.pdf",
+  "size_and_fit": {
+    "available_sizes": ["38", "40", "42", "44", "46", "48", "50", "52", "54", "56", "58", "60", "62", "64", "66"],
+    "reference_size": "48",
+    "description": "Size measurements reference for size 48",
+    "measurements": [
+      {
+        "measurement_name": "Chest Circumference 1/2",
+        "value": 59,
+        "unit": "CM"
+      },
+      {
+        "measurement_name": "Sleeve Length",
+        "value": 65,
+        "unit": "CM"
+      },
+      {
+        "measurement_name": "Shoulder Length",
+        "value": 18,
+        "unit": "CM"
+      },
+      {
+        "measurement_name": "Back Length",
+        "value": 73,
+        "unit": "CM"
+      },
+      {
+        "measurement_name": "Waist Circumference 1/2",
+        "value": 58,
+        "unit": "CM"
+      },
+      {
+        "measurement_name": "Sleeve Width 1/2",
+        "value": 25,
+        "unit": "CM"
+      }
+    ]
+  },
+  "main_fabrics": [
+    {
+      "fabric_name": "Hamburg CRF Convoy",
+      "country_origin": "Italy",
+      "components": [
+        {
+          "material": "Cotton",
+          "percentage": 65,
+          "recycled_content": 0,
+          "substances_of_concern": "None"
+        },
+        {
+          "material": "Polyester",
+          "percentage": 35,
+          "recycled_content": 0,
+          "substances_of_concern": "None"
+        }
+      ]
+    },
+    {
+      "fabric_name": "Hamburg CRF Rig Orange",
+      "country_origin": "Italy",
+      "components": [
+        {
+          "material": "Cotton",
+          "percentage": 65,
+          "recycled_content": 0,
+          "substances_of_concern": "None"
+        },
+        {
+          "material": "Polyester",
+          "percentage": 35,
+          "recycled_content": 0,
+          "substances_of_concern": "None"
+        }
+      ]
+    }
+  ],
+  "supplies_and_components": [
+    {
+      "material": "Etiquette Markem IM",
+      "country_origin": "Global"
+    },
+    {
+      "material": "ETIKET PAXAR IN COM",
+      "country_origin": "Global"
+    },
+    {
+      "material": "ELASTIQUE BLANC",
+      "country_origin": "Global"
+    },
+    {
+      "material": "BOUTON PR PLASTIQUE",
+      "country_origin": "Global"
+    },
+    {
+      "material": "OESE PLASTIQUE GRIS",
+      "country_origin": "Global"
+    },
+    {
+      "material": "BOUT PRESION PLAST",
+      "country_origin": "Global"
+    },
+    {
+      "material": "BANDE REFL 8940. FL",
+      "country_origin": "Global"
+    },
+    {
+      "material": "FERMETURE VISELON O",
+      "country_origin": "Global"
+    },
+    {
+      "material": "POLYAMIDE VELCRO HO",
+      "country_origin": "Global"
+    },
+    {
+      "material": "POLYAMIDE BRANDVRIJ",
+      "country_origin": "Global"
+    },
+    {
+      "material": "CROCHET POLYAMIDE O",
+      "country_origin": "Global"
+    },
+    {
+      "material": "MOUSSE POLYAMIDE IG",
+      "country_origin": "Global"
+    },
+    {
+      "material": "FIL A COUDRE EPIC 8",
+      "country_origin": "Global"
+    },
+    {
+      "material": "FIL A COUDRE PES/CO",
+      "country_origin": "Global"
+    },
+    {
+      "material": "EPIC 80 PALE GREY C",
+      "country_origin": "Global"
+    },
+    {
+      "material": "ETIQUETTE DE TAILLE 50.00 TAIL",
+      "country_origin": "Global"
+    },
+    {
+      "material": "CE - LABEL",
+      "country_origin": "Global"
+    },
+    {
+      "material": "MODE D'EMPLOI CE PO",
+      "country_origin": "Global"
+    },
+    {
+      "material": "TRUFLEX ARCELOR MITAL",
+      "country_origin": "Global"
+    },
+    {
+      "material": "PUCE",
+      "country_origin": "Global"
+    },
+    {
+      "material": "ETIQUETTE TISSE EPI TRIANGLEJAUNE/GRIS",
+      "country_origin": "Global"
+    }
+  ],
+  "circularity": {
+    "durability_score": "-",
+    "recyclable_percent": 0,
+    "recycled_content_percent": 0,
+    "recycling_instructions": "No recycling information available",
+    "end_of_life_instructions": "Do not throw away your PPE. Hand over your PPE to your employer who has installed an adapted procedure for recycling or destruction of your work wear."
+  },
+  "environmental": {
+    "carbon_footprint_kg": null,
+    "water_used_l": null,
+    "energy_used_kwh": null
+  },
+  "certificates": [
+    {
+      "id": "1",
+      "name": "EU Declaration of conformity",
+      "administered_by": "Berphina",
+      "administered_in": "Belgium",
+      "issued_date": "13-07-2022",
+      "certificate_id": "1",
+      "url": "https://www.cindico-ce.com/file/CC848125-33Q0101_ned-df_2"
+    },
+    {
+      "id": "2",
+      "name": "CE Marking",
+      "administered_by": "Berphina",
+      "administered_in": "Belgium",
+      "issued_date": "11-05-2021",
+      "certificate_id": "2",
+      "url": "https://www.cindico-ce.com/file/SM-U01_fedn_2"
+    }
+  ],
+  "production": {
+    "date_produced": "2025 W20",
+    "produced_by": "Cindico",
+    "production_location": "Cindico Morocco",
+    "production_location_address": "37, Rue Outman Ibn Affan, Zone Industrielle, Salé, Morocco",
+    "producer_contact": "https://www.cindico-ce.com",
+    "production_identifier": "12 = Cindico Morocco => Production Line 19 (of 62 in total)",
+    "operator_identifier": "001524380000004 (ICE) - 3330706 (IF)"
+  },
+  "importer": {
+    "imported_by": "Elis Services",
+    "eori_number": "FR49966844000039",
+    "importer_address": "5 Bd Louis Loucheur, 92210 Saint-Cloud, France",
+    "importer_contact": "https://be.elis.com"
+  },
+  "events": [
+    {
+      "event_type": "commissioning",
+      "biz_step": "Commissioning",
+      "disposition": "active",
+      "event_time": "2025-05-05T00:00:00Z"
+    },
+    {
+      "event_type": "packing",
+      "biz_step": "Packing",
+      "disposition": "in_progress",
+      "event_time": "2025-05-05T00:00:00Z"
+    },
+    {
+      "event_type": "shipping",
+      "biz_step": "Shipping",
+      "disposition": "in_transit",
+      "event_time": "2025-05-07T00:00:00Z"
+    },
+    {
+      "event_type": "receiving",
+      "biz_step": "Receiving",
+      "disposition": "in_progress",
+      "event_time": "2025-05-14T00:00:00Z"
+    },
+    {
+      "event_type": "inspecting",
+      "biz_step": "Inspecting",
+      "disposition": "in_progress",
+      "event_time": "2025-05-14T00:00:00Z"
+    },
+    {
+      "event_type": "accepting",
+      "biz_step": "Accepting",
+      "disposition": "active",
+      "event_time": "2025-05-14T00:00:00Z"
+    },
+    {
+      "event_type": "storing",
+      "biz_step": "Storing",
+      "disposition": "in_progress",
+      "event_time": "2025-05-14T00:00:00Z"
+    }
+  ],
+  "dpp_service_provider": {
+    "name": "Alsico Europe",
+    "provider_id": null,
+    "contact_address": "111, Pont West, 9600 Ronse, Belgium",
+    "website": "https://www.alsico.com",
+    "backup_access_available": false
+  }
+}

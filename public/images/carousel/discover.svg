@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 512">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#16213e"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="512" fill="url(#g1)"/>
+  <!-- Hanger icon -->
+  <g transform="translate(400,220)" fill="none" stroke="#ffffff" stroke-width="2.5" opacity="0.35">
+    <path d="M0,-60 L0,-45 Q0,-35 -8,-30 L-80,20 Q-90,26 -90,38 L-90,40 Q-90,50 -80,50 L80,50 Q90,50 90,40 L90,38 Q90,26 80,20 L8,-30 Q0,-35 0,-45"/>
+    <circle cx="0" cy="-60" r="8"/>
+  </g>
+  <!-- Decorative dots -->
+  <circle cx="360" cy="320" r="2" fill="#ffffff" opacity="0.15"/>
+  <circle cx="400" cy="320" r="2" fill="#ffffff" opacity="0.15"/>
+  <circle cx="440" cy="320" r="2" fill="#ffffff" opacity="0.15"/>
+</svg>

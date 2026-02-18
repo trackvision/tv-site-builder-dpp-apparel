@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 512">
+  <defs>
+    <linearGradient id="g3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a3d2a"/>
+      <stop offset="100%" stop-color="#1a5c3a"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="512" fill="url(#g3)"/>
+  <!-- Leaf / recycle icon -->
+  <g transform="translate(400,220)" fill="none" stroke="#ffffff" stroke-width="2.5" opacity="0.35">
+    <!-- Leaf shape -->
+    <path d="M0,-50 Q40,-40 50,0 Q55,30 30,50 Q10,65 0,70"/>
+    <path d="M0,-50 Q-40,-40 -50,0 Q-55,30 -30,50 Q-10,65 0,70"/>
+    <!-- Center vein -->
+    <line x1="0" y1="-40" x2="0" y2="70"/>
+    <!-- Side veins -->
+    <path d="M0,-20 Q15,-15 25,-5"/>
+    <path d="M0,-20 Q-15,-15 -25,-5"/>
+    <path d="M0,10 Q15,15 25,25"/>
+    <path d="M0,10 Q-15,15 -25,25"/>
+  </g>
+  <!-- Decorative dots -->
+  <circle cx="360" cy="320" r="2" fill="#ffffff" opacity="0.15"/>
+  <circle cx="400" cy="320" r="2" fill="#ffffff" opacity="0.15"/>
+  <circle cx="440" cy="320" r="2" fill="#ffffff" opacity="0.15"/>
+</svg>

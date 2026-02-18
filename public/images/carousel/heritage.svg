@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 512">
+  <defs>
+    <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2d3436"/>
+      <stop offset="100%" stop-color="#636e72"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="512" fill="url(#g2)"/>
+  <!-- Thread/needle icon -->
+  <g transform="translate(400,210)" fill="none" stroke="#ffffff" stroke-width="2.5" opacity="0.35">
+    <ellipse cx="0" cy="0" rx="30" ry="40"/>
+    <line x1="0" y1="40" x2="0" y2="90"/>
+    <!-- Wavy thread -->
+    <path d="M0,90 Q15,100 0,110 Q-15,120 0,130 Q15,140 0,150"/>
+  </g>
+  <!-- Decorative dots -->
+  <circle cx="360" cy="310" r="2" fill="#ffffff" opacity="0.15"/>
+  <circle cx="400" cy="310" r="2" fill="#ffffff" opacity="0.15"/>
+  <circle cx="440" cy="310" r="2" fill="#ffffff" opacity="0.15"/>
+</svg>
